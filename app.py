@@ -13,7 +13,7 @@ import requests
 app = Flask(__name__)
 
 # Configure secret key for session management
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = os.getenv("SECRET_KEY")
 
 # Configure the SQLite database URI
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///messages.db'
