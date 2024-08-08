@@ -38,7 +38,6 @@ The WeatherWorld Website is a web-based application that provides real-time weat
 - `models.py`: Defines database models.
 - `templates/`: Folder containing HTML templates for the website.
 - `static/`: Contains CSS, JavaScript, and image files.
-- `.env`: Environment variables for configuration settings.
 - `requirements.txt`: Required Python packages.
 
 ## ✅Run Project
