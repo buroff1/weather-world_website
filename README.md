@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Technologies](#technologies)
 - [Features](#features)
-- [Project Structure](#project-structure)
+- [Project Structure](#%EF%B8%8Fproject-structure)
 - [Run Project](#run-project)
 - [Managing API Keys](#managing-api-keys)
 - [Contributing](#contributing)
