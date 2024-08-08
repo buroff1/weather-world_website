@@ -45,7 +45,7 @@ The WeatherWorld Website is a web-based application that provides real-time weat
 
 1. **Clone the repository**:
 ```
-git clone https://github.com/your-username/WeatherWorld-website.git
+git clone https://github.com/buroff1/WeatherWorld-website.git
 cd WeatherWorld-website
 ```
 2. **Set up a virtual environment**:
