@@ -1,8 +1,10 @@
 # WeatherWorld Website 🌦️
-## 🧪 Demo
-![wwdemo-ezgif com-optimize](https://github.com/user-attachments/assets/f0a94b9f-d3e3-4693-b5b8-0b378335b5a1)
+## 🧪Demo
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0a94b9f-d3e3-4693-b5b8-0b378335b5a1" alt="Demo">
+</p>
 
-## 📝 Content
+## 📝Content
 
 - [Overview](#%EF%B8%8Foverview)
 - [Technologies](#technologies)
